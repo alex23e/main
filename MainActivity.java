@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     EditText edt1,edt2;
     TextView txt1;
     Button btnsum;
-    String s;
+    String s,mn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
